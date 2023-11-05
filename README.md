@@ -10,3 +10,4 @@
 ![Screenshot 2023-11-05 164821](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/36324d3a-9cf9-45ec-ad7f-0a0bb7b2e7d7)
 ![Screenshot 2023-11-05 164852](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/02c8e331-200b-46e0-b88f-cbfb2021d0cb)
 ![Screenshot 2023-11-05 164835](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/a04185cf-dd11-4d62-936b-cbd20fb2f987)
+![Screenshot 2023-11-05 164739](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/0d5f19d5-a4da-42dd-a84f-39f7b7838815)
