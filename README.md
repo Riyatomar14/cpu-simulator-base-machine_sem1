@@ -1,6 +1,7 @@
 # cpu-simulator-base-machine-
 
-## 1. here me make simple instruction cycle 
+## 1. ![Screenshot 2023-11-05 191022](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/216dba24-6895-4251-bc43-0dca5d4e8a7b)
+
 ![Screenshot 2023-11-05 164725](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/f6033c5e-a346-4019-9c85-0e83d2e8cd08)
 
 ![Screenshot 2023-11-05 164739](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/0d5f19d5-a4da-42dd-a84f-39f7b7838815)
