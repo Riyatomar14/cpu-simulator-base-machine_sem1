@@ -66,7 +66,7 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 ![Screenshot 2023-12-09 162936](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/14930bfb-e542-4a2b-a453-dfad3760ce81)
 
-## HOW TO SUBTRACTION
+## HOW TO SUBTRACT
 
 ![Screenshot 2023-12-09 165007](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/797dcc54-b13c-402c-996f-9575c8e16e30)
 
