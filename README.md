@@ -78,6 +78,14 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 ![Screenshot 2023-12-09 165106](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/ee796b36-ee5f-4b55-b67c-f73c6f00d660)
 
+## AND LOGIC
+
+![Screenshot 2023-12-09 171521](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/78d3e121-a85f-449c-a4e5-4ae3d308bf06)
+
+![Screenshot 2023-12-09 171534](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/77a83dc8-395f-4d70-aa64-dd0cb24c32ac)
+
+![Screenshot 2023-12-09 171549](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/e025d74f-8da8-43da-9ce6-28270113cd3c)
+
 
 
 
