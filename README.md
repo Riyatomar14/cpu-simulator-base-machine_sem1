@@ -42,3 +42,7 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 
 
+![Screenshot 2023-12-09 162653](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/63a19c9b-d3da-4b47-a259-8c5e88c2a932)
+
+
+
