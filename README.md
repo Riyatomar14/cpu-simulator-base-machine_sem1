@@ -40,9 +40,36 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 ![Screenshot 2023-11-05 164919](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/fd23f47a-b24b-49a4-be25-35522c6bc5dd)
 
-
+## how to add
 
 ![Screenshot 2023-12-09 162653](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/63a19c9b-d3da-4b47-a259-8c5e88c2a932)
+
+![Screenshot 2023-12-09 162713](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/f0e491ac-2725-4221-b027-25a9be66bed6)
+
+![Screenshot 2023-12-09 162720](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/4b395005-d920-4af1-920e-2a1c9a5621c6)
+
+![Screenshot 2023-12-09 162731](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/af6c033f-1d52-4e22-8a92-eaad2e4176e1)
+
+![Screenshot 2023-12-09 162741](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/8dd7974e-83d5-40fb-afc5-a1b534b72505)
+
+![Screenshot 2023-12-09 162749](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/cf321d0f-ac56-4f88-9a32-1a52c265f140)
+
+![Screenshot 2023-12-09 162759](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/b9f5d80e-4c4a-46fc-90ee-db4c03210e74)
+
+![Screenshot 2023-12-09 162826](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/4e95d628-389c-40cc-b08c-cc144d398991)
+
+![Screenshot 2023-12-09 162844](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/f5f076fb-ae76-4728-94e3-c382376b0259)
+
+![Screenshot 2023-12-09 162908](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/3d65d3b3-6996-402a-8327-f79f1687a8a1)
+
+![Screenshot 2023-12-09 162927](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/788c314d-7f72-4632-baa3-c71403aaf0b5)
+
+![Screenshot 2023-12-09 162936](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/14930bfb-e542-4a2b-a453-dfad3760ce81)
+
+
+
+
+
 
 
 
