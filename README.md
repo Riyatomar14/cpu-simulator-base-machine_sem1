@@ -90,21 +90,19 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 ![Screenshot 2023-12-09 172255](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/9fa53eea-a0bb-4b5a-b695-440c3177d0db)
 
-![Screenshot 2023-12-09 172255 - Copy](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/6f2b1005-d39e-420b-9fc5-9e0c02864bdf)
-
-![Screenshot 2023-12-09 172255](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/b905e049-b93c-483c-898b-4b02f11efe4d)
-
-## 
-
 ![Screenshot 2023-12-09 172305](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/30df6099-779f-434c-b2a8-e5d4bc2165f0)
 
 ![Screenshot 2023-12-09 172316](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/65af8467-1bbd-4fab-931a-d6d913d2926a)
+
+## NOT LOGIC 
 
 ![Screenshot 2023-12-09 174837](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/bcd71f0a-b984-4422-983b-4d6859154671)
 
 ![Screenshot 2023-12-09 174849](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/4639254e-975a-41ab-ad1b-ce8ee19cfda3)
 
 ![Screenshot 2023-12-09 174857](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/7bd7e1f6-8966-4440-a20e-3948a3dc8bd7)
+
+## 
 
 
 
