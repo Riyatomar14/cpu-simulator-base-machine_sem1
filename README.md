@@ -104,6 +104,21 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 ## 
 
+![s](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/34140424-e1e6-4637-8d76-fd17ccc28ac1)
+
+![WhatsApp Image 2023-12-14 at 07 47 54_aee1e29d](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/ba37ee47-9630-4be2-ac20-6453b15ae003)
+
+![WhatsApp Image 2023-12-14 at 07 48 20_2880dc33](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/4e8177e1-d148-4f54-9744-3bc90d29ed71)
+
+![WhatsApp Image 2023-12-14 at 07 48 50_ab2ff1ea](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/6445d390-dbfc-4388-ae0f-33bce736890c)
+
+![WhatsApp Image 2023-12-14 at 08 12 00_c5610fb9](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/de73b8eb-0973-45e4-83e1-d8bae7c7c4e8)
+
+
+![WhatsApp Image 2023-12-14 at 08 12 35_2b73d0e6](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/f2dd48e6-6e16-4296-b5c7-67a3ae08191a)
+
+
+
 
 
 
