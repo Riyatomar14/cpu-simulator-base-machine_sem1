@@ -116,6 +116,36 @@ Then the instruction is executed, which completes the machine cycle. This is fol
 
 
 ![WhatsApp Image 2023-12-14 at 08 12 35_2b73d0e6](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/f2dd48e6-6e16-4296-b5c7-67a3ae08191a)
+![WhatsApp Image 2023-12-14 at 08 28 22_2e6a6bf4](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/c1e6d1c6-ac75-4da0-8350-373d11b0f38b)
+
+![WhatsApp Image 2023-12-14 at 08 28 22_d41c9a2d](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/d5092045-a783-4cc2-a803-08f7b8bcd230)
+
+![WhatsApp Image 2023-12-14 at 08 28 22_0f682026](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/7947e822-2501-462d-9ffa-063ae23f16f6)
+
+
+![WhatsApp Image 2023-12-14 at 08 28 23_149a74d5](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/1e466e36-d725-479e-b27a-83a37a1fd1f0)
+
+![WhatsApp Image 2023-12-14 at 08 28 23_7344e995](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/9fcc479a-3cbc-48fd-be72-a1f0ea58e4c8)
+
+![WhatsApp Image 2023-12-14 at 08 30 11_55bfd847](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/66b8e2db-a6e1-4047-8ccc-52497d873753)
+
+![WhatsApp Image 2023-12-14 at 08 30 11_af028c93](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/bc64daa1-f01c-42b9-841b-4c1116b5c581)
+
+![WhatsApp Image 2023-12-14 at 08 30 12_86dac009](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/23b9ce60-e47b-4bbe-893e-35948e57e61f)
+
+
+
+![WhatsApp Image 2023-12-14 at 08 30 12_9cf21d3a](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/70490cbd-c86b-4eac-9c76-bfb71170c76c)
+
+
+![WhatsApp Image 2023-12-14 at 08 30 12_3b810695](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/20c71e76-2ced-49ad-855c-dca0727b798f)
+
+![WhatsApp Image 2023-12-14 at 08 30 13_9aa133d7](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/9adef52d-d776-4e9a-b1f8-17cc12e051c0)
+
+![WhatsApp Image 2023-12-14 at 08 30 13_72521425](https://github.com/Riyatomar14/cpu-simulator-base-machine-/assets/143107173/b5d5940f-1a1f-4ed1-ad4a-26d5514183cb)
+
+
+
 
 
 
